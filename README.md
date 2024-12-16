@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ba/2d/c8/ba2dc8be889560116d694d1aba3eb77b.gif" alt="GIF" width="65%">
+  <img src="https://i.pinimg.com/originals/ba/2d/c8/ba2dc8be889560116d694d1aba3eb77b.gif" alt="GIF" width="55%">
 </p>
 
 <h1 align="center">Привет, меня зовут Владислав! 👋</h1>
