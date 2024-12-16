@@ -1,3 +1,6 @@
+[English Version](https://github.com/VladPl78916/VladPl78916/blob/readme-english-version/readme.en.md)
+
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/ba/2d/c8/ba2dc8be889560116d694d1aba3eb77b.gif" alt="GIF" width="55%">
 </p>
