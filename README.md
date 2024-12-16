@@ -14,7 +14,7 @@
 
 ---
 
-![Digital Brain AI](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif)
+![Digital Brain](https://i.pinimg.com/originals/ba/2d/c8/ba2dc8be889560116d694d1aba3eb77b.gif)
 
 <!--
 **VladPl78916/VladPl78916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
